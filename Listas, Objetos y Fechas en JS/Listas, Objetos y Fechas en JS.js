@@ -65,6 +65,6 @@ const dia = ahora.getDate();
 const month = ahora.getMonth();
 const year = ahora.getFullYear();
 
-console.log(dia,month,year);
+console.log(dia,month,year);  //Asi se mandan a llamar varias variables a la vez
 
 
