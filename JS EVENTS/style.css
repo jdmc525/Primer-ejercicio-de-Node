@@ -1,0 +1,15 @@
+body{
+    background-color: #000000;
+    color: antiquewhite;
+    
+}
+
+.resultado{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    max-width: max-content;
+    background-color: aqua;
+    color: #000000;
+}
